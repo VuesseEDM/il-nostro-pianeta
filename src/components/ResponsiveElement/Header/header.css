@@ -1,0 +1,175 @@
+.description-section {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 30px 30px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  width: 50%; 
+}
+
+.main-title {
+  color: #2c3e50;
+  font-size: 5rem;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.description-text {
+  font-size: 1.5rem;
+  line-height: 1.35;
+  color: #34495e;
+  width: 100%; 
+}
+.earth {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  animation: rotateEarth 30s infinite linear;
+}
+
+
+.earth-left {
+  background-image: url("https://img.freepik.com/psd-gratis/scuola-di-palla-della-terra_23-2151848245.jpg?t=st=1733246424~exp=1733250024~hmac=4742d50086df5ae5fd148d44e9ecd9542687e12c4a015dcd6b03c5a58994ee06&w=900");
+}
+
+/
+@keyframes rotateEarth {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.description-section {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 30px 30px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  width: 50%; 
+}
+
+.main-title {
+  color: #2c3e50;
+  font-size: 5rem;
+  text-align: left; 
+  margin-bottom: 20px;
+}
+
+.description-text {
+  font-size: 1.5rem;
+  line-height: 1.35;
+  color: #34495e;
+  width: 100%;
+}
+
+.earth {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  animation: rotateEarth 30s infinite linear;
+}
+
+
+.earth-left {
+  background-image: url("https://img.freepik.com/psd-gratis/scuola-di-palla-della-terra_23-2151848245.jpg?t=st=1733246424~exp=1733250024~hmac=4742d50086df5ae5fd148d44e9ecd9542687e12c4a015dcd6b03c5a58994ee06&w=900");
+}
+
+
+@keyframes rotateEarth {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+@media only screen and (max-width: 500px) {
+  .description-section {
+    flex-direction: column; 
+    padding: 15px; 
+  }
+
+  .description {
+    width: 80%;
+    align-items: center;
+    text-align: center;
+  }
+
+  .main-title {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .description-text {
+    font-size: 1.2rem;
+  }
+
+  .earth {
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+  }
+}
+
+/* Tablet */
+@media only screen and (min-width: 501px) and (max-width: 1024px) {
+  .description-section {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .description {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+  }
+
+  .main-title {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .description-text {
+    font-size: 1.3rem;
+  }
+
+  .earth {
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .main-title {
+    font-size: 4rem;
+  }
+
+  .earth {
+    width: 450px;
+    height: 450px;
+  }
+}

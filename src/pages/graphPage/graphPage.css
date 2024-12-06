@@ -1,0 +1,147 @@
+/* Graph Page Styles */
+.graph-page {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.graph-page-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
+.data-section {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.data-card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.data-title {
+  font-size: 1.5rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.data-description {
+  font-size: 1rem;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 800px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.toggle-button {
+  display: block;
+  margin: 20px auto;
+  background-color: #f39c12;
+  color: rgb(0, 0, 0);
+  padding: 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-button:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+
+
+@media only screen and (max-width: 500px) {
+  .graph-page {
+    padding: 10px;
+  }
+
+  .graph-page-title {
+    font-size: 1.5rem; 
+  }
+
+  .data-section {
+    display: block;
+    gap: 20px;
+  }
+
+  .data-card {
+    padding: 15px; 
+  }
+
+  .data-title {
+    font-size: 1.2rem; 
+  }
+
+  .data-description {
+    font-size: 0.9rem;
+  }
+
+  .toggle-button {
+    padding: 10px;
+    font-size: 1rem; 
+  }
+}
+
+/* Tablet */
+@media only screen and (min-width: 501px) and (max-width: 1024px) {
+  .graph-page {
+    padding: 20px; 
+  }
+
+  .graph-page-title {
+    font-size: 1.8rem; 
+  }
+
+  .data-section {
+    display: block;
+    gap: 25px;
+  }
+
+  .data-card {
+    padding: 18px; 
+  }
+
+  .data-title {
+    font-size: 1.4rem;
+  }
+
+  .data-description {
+    font-size: 1rem;
+  }
+
+  .toggle-button {
+    padding: 11px;
+    font-size: 1.1rem;
+  }
+}
+
+
+@media only screen and (min-width: 1024px) {
+  .graph-page-title {
+    font-size: 2rem;
+  }
+
+  .data-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+  }
+
+  .data-card {
+    padding: 20px;
+  }
+
+  .toggle-button {
+    padding: 12px;
+    font-size: 1.2rem;
+  }
+}
