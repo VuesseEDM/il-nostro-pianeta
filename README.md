@@ -52,7 +52,7 @@ My project is a web application built with React, aimed at raising awareness abo
     ```
 2. Navigate to the project directory:
     ```bash
-    cd il nostro pianeta
+    cd collegamento 
     ```
 3. Install dependencies using npm:
     ```bash
