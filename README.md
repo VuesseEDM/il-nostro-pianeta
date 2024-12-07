@@ -17,33 +17,24 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 
 
 ---
+ 
 
-## Development  
+## 🛠️  Development   
+  
 
-### Built With     🔧
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![GIT](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+- ![NODE](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)
+- ![VSC](https://banner2.cleanpng.com/20180330/hiq/kisspng-visual-studio-code-computer-icons-microsoft-visual-coding-5abef0f91e7f38.3082551815224629691249.jpg)
 
-<img src="https://banner2.cleanpng.com/20180330/hiq/kisspng-visual-studio-code-computer-icons-microsoft-visual-coding-5abef0f91e7f38.3082551815224629691249.jpg" alt="VSC" width="50"> <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML5" width="50"> <img src="https://i2.wp.com/www.associazioneincanto.it/wp-content/uploads/2016/03/js-logo-1.png?fit=500%2C500&ssl=1" alt="JAVASCRIPT" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NODE.JS" width="50"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="50"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="WEB" width="50">
-
-
-
-
-
-
-
-   
-
-- ```Visual Studio Code```
-- ```HTML5```
-- ```JavaScript```
-- ```CSS3```
-- ```Node.js```
-- ```Git```
-- ```React```
-- ```MongoDB```
 
 ### Preview
-
-![Preview](https://github.com/VuesseEDM/CyberChronicle/blob/main/document/desktop.png?raw=true)  
+[
+![Preview](https://raw.githubusercontent.com/VuesseEDM/il-nostro-pianeta/main/public/img/home.png)  
+![Graph Page](https://raw.githubusercontent.com/VuesseEDM/il-nostro-pianeta/main/public/img/graph.png)
 
 ---
 
@@ -81,20 +72,7 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 5. Create a pull request.
 
 ---
-
-## 📂 Folder Structure
-
-
-
-|--📁dist      
-|--📃document           
-|--📁src      
-|--    
-|--   
-|--📖README.md          
-|--🌐package-lock.Json     
-|--🌐package.Json  
-|--💻 webpack.config.js        
+      
      
 ---          
  To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
