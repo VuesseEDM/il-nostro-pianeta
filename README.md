@@ -1,71 +1,118 @@
-# Getting Started with Create React App
+
 https://vuesseedm.github.io/il-nostro-pianeta/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Il nostro pianeta 🚀
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+**Personale through**  
+Hi, this is my new app to stay updated in real-time on world news in the field of computer technology. When you enter the page, the latest 10 news will be displayed, but if you're not interested in the first 10, you can always load more. At the bottom of the page, you'll find my social media links where you can see what I'm up to, and if you're interested, don't hesitate to write to me to keep me updated on the web world. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Links
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+👉 [PDF Documentation](https://github.com/VuesseEDM/CyberChronicle/blob/36620443e38bd75c2b42b734fb62e012e1521431/document/CyberChronicle.pdf)    
+👉 [Aop](https://vuesseedm.github.io/CyberChronicle/)      
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Development  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With     🔧
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://banner2.cleanpng.com/20180330/hiq/kisspng-visual-studio-code-computer-icons-microsoft-visual-coding-5abef0f91e7f38.3082551815224629691249.jpg" alt="VSC" width="50"> <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML5" width="50"> <img src="https://i2.wp.com/www.associazioneincanto.it/wp-content/uploads/2016/03/js-logo-1.png?fit=500%2C500&ssl=1" alt="JAVASCRIPT" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NODE.JS" width="50"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="50"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="WEB" width="50">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+   
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- ```Visual Studio Code```
+- ```HTML5```
+- ```JavaScript```
+- ```CSS3```
+- ```Node.js```
+- ```Git```
+- ```React```
+- ```MongoDB```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Preview
 
-### Code Splitting
+![Preview](https://github.com/VuesseEDM/CyberChronicle/blob/main/document/desktop.png?raw=true)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clone the repository to your computer:
+    ```bash
+    git clone 
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd il nostro pianeta
+    ```
+3. Install dependencies using npm:
+    ```bash
+    npm install
+    ```
 
-### Making a Progressive Web App
+## Contribution
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. Fork the repository and clone your fork:
+    ```bash
+    git checkout -b new-feature-contributors
+    ```
+2. Make changes, ensuring clean and well-documented code.
+3. Add and commit your changes:
+    ```bash
+    git add .
+    git commit -m "Added new feature-contributors"
+    ```
+4. Push changes to your remote repository:
+    ```bash
+    git push origin new-feature-contributors
+    ```
+5. Create a pull request.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📂 Folder Structure
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+|--📁dist      
+|--📃document           
+|--📁src      
+|--    
+|--   
+|--📖README.md          
+|--🌐package-lock.Json     
+|--🌐package.Json  
+|--💻 webpack.config.js        
+     
+---          
+ To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
+  ---
+---
+👋 **Contacts**  
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **LinkedIn**  : https://LinkedIn.com/VuesseEDM
+
+- **GitHub**  : https://github.com/VuesseEDM
+
+- **Email**  : vuesse2impact@gmail.com
+---
+
+---
+ 
+
+🙌 Thanks for Visiting!
+
+If you have any questions or feedback, feel free to contact me. Thank you for your visit!   
