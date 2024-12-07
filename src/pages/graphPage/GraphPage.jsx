@@ -4,6 +4,7 @@ import Methane from "../../components/methane/Methane";
 import NO2 from "../../components/no2/NO2";
 import Temperature from "../../components/temperature/Temperature";
 import './graphPage.css';
+import Footer from "../../components/ResponsiveElement/Footer/Footer";
 import { Helmet } from "react-helmet"; 
 
 
@@ -14,6 +15,7 @@ const GraphPage = () => {
   const [showTemperature, setShowTemperature] = useState(true);
 
   return (
+    <>
     <div className="graph-page">
       <Helmet>
         <title>Grafici sull'Ambiente | Il nostro Pianeta</title>
@@ -76,6 +78,8 @@ const GraphPage = () => {
         </div>
       </section>
     </div>
+       <Footer/>
+      </>
   );
 };
 
