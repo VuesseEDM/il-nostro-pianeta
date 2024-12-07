@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/il-nostro-pianeta/static/css/main.50d1d56d.css",
-    "main.js": "/il-nostro-pianeta/static/js/main.c3965e77.js",
+    "main.js": "/il-nostro-pianeta/static/js/main.fa88ce74.js",
     "index.html": "/il-nostro-pianeta/index.html",
     "main.50d1d56d.css.map": "/il-nostro-pianeta/static/css/main.50d1d56d.css.map",
-    "main.c3965e77.js.map": "/il-nostro-pianeta/static/js/main.c3965e77.js.map"
+    "main.fa88ce74.js.map": "/il-nostro-pianeta/static/js/main.fa88ce74.js.map"
   },
   "entrypoints": [
     "static/css/main.50d1d56d.css",
-    "static/js/main.c3965e77.js"
+    "static/js/main.fa88ce74.js"
   ]
 }
