@@ -20,19 +20,21 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
  
 
 ## 🛠️  Development   
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="width: 100px; height: 100px; margin: 5px;" />
-  <img src="https://img.shields.io/badge/CORS-005571?style=for-the-badge&logo=fastify&logoColor=white" alt="CORS" style="width: 100px; height: 100px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="width: 150px; height: auto; margin: 5px;" />
+  <img src="https://img.shields.io/badge/CORS-005571?style=for-the-badge&logo=fastify&logoColor=white" alt="CORS" style="width: 150px; height: auto; margin: 5px;" />
 </p>
+
 
 
 ### Preview
