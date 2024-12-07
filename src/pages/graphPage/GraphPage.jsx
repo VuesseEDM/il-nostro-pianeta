@@ -4,6 +4,8 @@ import Methane from "../../components/methane/Methane";
 import NO2 from "../../components/no2/NO2";
 import Temperature from "../../components/temperature/Temperature";
 import './graphPage.css';
+import { Helmet } from "react-helmet"; 
+
 
 const GraphPage = () => {
   const [showCO2, setShowCO2] = useState(true);
@@ -13,6 +15,13 @@ const GraphPage = () => {
 
   return (
     <div className="graph-page">
+      <Helmet>
+        <title>Grafici sull'Ambiente | Il nostro Pianeta</title>
+        <meta name="description" content="Visualizza i grafici sull'impatto dei gas serra, temperatura e inquinamento per capire meglio il cambiamento climatico." />
+        <meta property="og:title" content="Grafici sull'Ambiente | Il nostro Pianeta" />
+        <meta property="og:description" content="Visualizza i grafici sull'impatto dei gas serra, temperatura e inquinamento per capire meglio il cambiamento climatico." />
+     
+      </Helmet>
       <h1 className="graph-page-title">Grafici sull'Ambiente</h1>
 
       <section className="data-section">

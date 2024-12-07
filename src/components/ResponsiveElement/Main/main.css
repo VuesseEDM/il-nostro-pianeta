@@ -53,25 +53,27 @@
 
 @media only screen and (max-width: 500px) {
   .main-section {
-    padding: 30px 15px;
+    padding: 50px 10px;
     height: auto;
   }
 
   .main-title-you {
-    font-size: 3rem;
+    font-size: 2.6rem;
     margin-bottom: 50px;
   }
-
+  .action-container {
+    gap: 17px;
+  }
   .main-subtitle {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     margin-bottom: 50px;
   }
 
   .action-item a {
     font-size: 1.1rem;
-    padding: 5px 20px;
-    width: 90px;
-    height: 60px;
+    padding: 3px 17px;
+    width: 80px;
+    height: 40px;
   }
 }
 

@@ -1,6 +1,6 @@
 .description-section {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: center;
   padding: 30px 30px;
 }
@@ -8,8 +8,8 @@
 .description {
   display: flex;
   flex-direction: column;
-  align-items: flex-start; 
-  width: 50%; 
+  align-items: flex-start;
+  width: 50%;
 }
 
 .main-title {
@@ -23,7 +23,7 @@
   font-size: 1.5rem;
   line-height: 1.35;
   color: #34495e;
-  width: 100%; 
+  width: 100%;
 }
 .earth {
   width: 500px;
@@ -35,12 +35,10 @@
   animation: rotateEarth 30s infinite linear;
 }
 
-
 .earth-left {
   background-image: url("https://img.freepik.com/psd-gratis/scuola-di-palla-della-terra_23-2151848245.jpg?t=st=1733246424~exp=1733250024~hmac=4742d50086df5ae5fd148d44e9ecd9542687e12c4a015dcd6b03c5a58994ee06&w=900");
 }
 
-/
 @keyframes rotateEarth {
   0% {
     transform: rotate(0deg);
@@ -52,7 +50,7 @@
 
 .description-section {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: center;
   padding: 30px 30px;
 }
@@ -60,14 +58,14 @@
 .description {
   display: flex;
   flex-direction: column;
-  align-items: flex-start; 
-  width: 50%; 
+  align-items: flex-start;
+  width: 50%;
 }
 
 .main-title {
   color: #2c3e50;
   font-size: 5rem;
-  text-align: left; 
+  text-align: left;
   margin-bottom: 20px;
 }
 
@@ -88,11 +86,9 @@
   animation: rotateEarth 30s infinite linear;
 }
 
-
 .earth-left {
   background-image: url("https://img.freepik.com/psd-gratis/scuola-di-palla-della-terra_23-2151848245.jpg?t=st=1733246424~exp=1733250024~hmac=4742d50086df5ae5fd148d44e9ecd9542687e12c4a015dcd6b03c5a58994ee06&w=900");
 }
-
 
 @keyframes rotateEarth {
   0% {
@@ -103,17 +99,14 @@
   }
 }
 
-
-
-
 @media only screen and (max-width: 500px) {
   .description-section {
-    flex-direction: column; 
-    padding: 15px; 
+    flex-direction: column;
+    padding: 15px;
   }
 
   .description {
-    width: 80%;
+    width: 90%;
     align-items: center;
     text-align: center;
   }
@@ -128,9 +121,8 @@
   }
 
   .earth {
-    width: 300px;
-    height: 300px;
-    margin-top: 20px;
+    width: 250px;
+    height: 250px;
   }
 }
 
