@@ -13,6 +13,11 @@ const Home = () => {
         <meta name="description" content="Scopri come affrontare il cambiamento climatico e migliorare l'ambiente." />
         <meta property="og:title" content="Benvenuti nella nostra app | Il nostro Pianeta" />
         <meta property="og:description" content="Scopri come affrontare il cambiamento climatico e migliorare l'ambiente." />
+        <meta property="og:type" content="Alien Minigame"/>
+        <meta property="og:image"
+              content="https://raw.githubusercontent.com/VuesseEDM/il-nostro-pianeta/main/public/img/home.png"/>
+        <meta property="og:image:alt" content="Artic"/>
+        <meta property="og:url" content="https://vuesseedm.github.io/il-nostro-pianeta/"/>
      
       </Helmet>
       <HeroImage />

@@ -20,8 +20,14 @@ const GraphPage = () => {
         <meta name="description" content="Visualizza i grafici sull'impatto dei gas serra, temperatura e inquinamento per capire meglio il cambiamento climatico." />
         <meta property="og:title" content="Grafici sull'Ambiente | Il nostro Pianeta" />
         <meta property="og:description" content="Visualizza i grafici sull'impatto dei gas serra, temperatura e inquinamento per capire meglio il cambiamento climatico." />
-     
+        <meta property="og:type" content="Grafici sull' ambiente"/>
+        <meta property="og:image"
+              content="https://raw.githubusercontent.com/VuesseEDM/il-nostro-pianeta/main/public/img/graph.png"/>
+        <meta property="og:image:alt" content="data element"/>
+        <meta property="og:url" content="https://vuesseedm.github.io/il-nostro-pianeta/graphs"/>
       </Helmet>
+
+
       <h1 className="graph-page-title">Grafici sull'Ambiente</h1>
 
       <section className="data-section">
