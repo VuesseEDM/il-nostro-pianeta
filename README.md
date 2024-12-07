@@ -1,5 +1,5 @@
 
-https://vuesseedm.github.io/il-nostro-pianeta/
+
 
 # Il nostro pianeta 🚀
 
@@ -12,8 +12,8 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 
 ### Links
 
-👉 [PDF Documentation](https://github.com/VuesseEDM/CyberChronicle/blob/36620443e38bd75c2b42b734fb62e012e1521431/document/CyberChronicle.pdf)    
-👉 [Aop](https://vuesseedm.github.io/CyberChronicle/)      
+👉 [PDF Documentation]()    
+👉 [App](https://vuesseedm.github.io/il-nostro-pianeta/)      
 
 
 ---
@@ -26,9 +26,15 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![GIT](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-- ![NODE](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)
-- ![VSC](https://banner2.cleanpng.com/20180330/hiq/kisspng-visual-studio-code-computer-icons-microsoft-visual-coding-5abef0f91e7f38.3082551815224629691249.jpg)
+
+
+- ![Node.js](https://img.shields.io/badge/node.js-18.x-green?logo=node.js)
+- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visualstudiocode)
+- ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?logo=mongodb)
+- ![Axios](https://img.shields.io/badge/Axios-HTTPClient-blue?logo=axios)
+- ![Express.js](https://img.shields.io/badge/Express.js-WebFramework-lightgrey?logo=express)
+
 
 
 ### Preview
