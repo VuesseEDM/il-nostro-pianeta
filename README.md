@@ -26,14 +26,13 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+- ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-
-- ![Node.js](https://img.shields.io/badge/node.js-18.x-green?logo=node.js)
-- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visualstudiocode)
-- ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?logo=mongodb)
-- ![Axios](https://img.shields.io/badge/Axios-HTTPClient-blue?logo=axios)
-- ![Express.js](https://img.shields.io/badge/Express.js-WebFramework-lightgrey?logo=express)
 
 
 
