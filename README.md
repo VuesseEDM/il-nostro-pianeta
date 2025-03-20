@@ -84,7 +84,7 @@ My project is a web application built with React, aimed at raising awareness abo
 👋 **Contacts**  
 ---
 
-- **LinkedIn**  : https://LinkedIn.com/VuesseEDM
+- **LinkedIn**  : https://www.linkedin.com/in/vincenzo-sorrentino-front-end-developer/
 
 - **GitHub**  : https://github.com/VuesseEDM
 
